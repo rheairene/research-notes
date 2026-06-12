@@ -1,0 +1,52 @@
+🦠 Microbiome Research Notes
+
+This repository contains the research I independently compiled while developing a concept for a 
+Personalised Microbiome Engineering and Gut-Brain Axis Optimisation Platform.
+
+
+The Idea
+
+Most probiotics, diets, and supplements fail because they treat everyone the same. 
+But your gut microbiome is as unique as a fingerprint — shaped by your genetics, where you grew up, what you eat, and even how you were born.
+Two people with identical genetics can have completely different health outcomes because of their microbiomes.
+
+The platform I'm developing aims to fix that.
+By combining genomic sequencing, microbiome analysis, and AI-driven recommendations,
+it would generate truly personalised gut-brain optimisation plans — including custom probiotic/prebiotic formulations,
+dietary guidance, and lifestyle interventions — and adapt them over time through continuous monitoring.
+
+The gut-brain axis is the communication highway between your gut and your brain. 
+It regulates mood, immunity, cognition, and digestion. 
+Optimising it at an individual level is one of the most underexplored opportunities in precision medicine.
+
+
+What's in this repo
+
+
+Research notes from 6 peer-reviewed papers (Nature, Cell, EMBO) that form the scientific foundation of this project
+My personal takeaways and how each paper connects to the platform concept
+Links and DOIs to all source material
+
+
+
+Background
+
+I came across microbiome engineering at 16 with no biology background — just curiosity after reading an article.
+I went deep into the research literature, consulted a PhD researcher in the field, and
+turned it into a full platform concept and pitch deck, which I presented to the Kentucky Science Foundation in 2025.
+
+This repository is where I'm documenting that research properly as I continue developing the idea.
+
+
+Status
+
+🔬 Concept stage — research and platform design in progress
+
+📄 Pitch deck: complete
+
+🤝 Seeking collaborators in microbiome research, precision medicine, and AI/ML
+
+
+Built by Rhea Irene Albert 
+
+rheairene007@gmail.com 
